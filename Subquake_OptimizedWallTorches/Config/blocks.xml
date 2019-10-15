@@ -11,6 +11,6 @@ Purchased third party assets used in the mod:
 <set xpath="//block[
    @name='torchWallHolder'
 or @name='wallTorchLight'
-or @name='wallTorchLightPlayer']/property[@name='Model']/@value">#@modfolder(Subquake_WallTorchFix):Resources/Subquake_WallTorch?Torch</set>
+or @name='wallTorchLightPlayer']/property[@name='Model']/@value">#@modfolder:Resources/Subquake_WallTorch?Torch</set>
 
 </configs>
