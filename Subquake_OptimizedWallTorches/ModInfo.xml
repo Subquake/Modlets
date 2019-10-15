@@ -4,7 +4,7 @@
 		<Name value="Subquake_OptimizedWallTorches"/>
 		<Description value="Improves vanilla wall torch performance by applying a custom particle effect." />
 		<Author value="Subquake"/>
-		<Version value="1"/>
+		<Version value="1.0"/>
 		<Website value="http://ul.subquake.com"/>
 	</ModInfo>
 </xml>
